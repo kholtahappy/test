@@ -1,0 +1,3 @@
+<?php 
+	 hi how are u?
+?>
