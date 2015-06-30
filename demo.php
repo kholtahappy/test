@@ -1,7 +1,7 @@
 <?php
 
     
-	echo "this is a edited test file";
+	echo "this is a develop file";
 	
 	
 
